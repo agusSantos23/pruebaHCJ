@@ -1,0 +1,10 @@
+#main-footer {
+    position: fixed;
+    bottom: -100%; /* Esto oculta el footer completamente */
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    transition: bottom 0.5s ease; /* Agrega una transición suave */
+}
